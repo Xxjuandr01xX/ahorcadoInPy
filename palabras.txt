@@ -1,0 +1,6 @@
+perro
+gato
+pescado
+pajaro
+montania
+arbol
